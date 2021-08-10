@@ -1,0 +1,102 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="3.0.0" />
+    <PackageReference Include="System.Text.Json" Version="5.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cabinet\LesActeurs.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Laboratoire\AnalysisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="QuantityForm - Copier %282%29 - Copier %282%29.Designer.cs">
+      <DependentUpon>QuantityForm - Copier (2).Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="QuantityForm - Copier %282%29.Designer.cs">
+      <DependentUpon>QuantityForm.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="QuantityForm - Copier %283%29.Designer.cs">
+      <DependentUpon>QuantityForm.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="QuantityForm - Copier %284%29.Designer.cs">
+      <DependentUpon>QuantityForm.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="QuantityForm - Copier - Copier - Copier - Copier.Designer.cs">
+      <DependentUpon>QuantityForm - Copier - Copier - Copier.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="QuantityForm - Copier - Copier - Copier.Designer.cs">
+      <DependentUpon>QuantityForm - Copier - Copier.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="QuantityForm - Copier.Designer.cs">
+      <DependentUpon>QuantityForm.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="QuantityForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="QuantityForm - Copier %282%29 - Copier %282%29.resx">
+      <DependentUpon>QuantityForm - Copier (2).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="QuantityForm - Copier %282%29 - Copier - Copier.resx">
+      <DependentUpon>QuantityForm - Copier (2) - Copier.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="QuantityForm - Copier %282%29 - Copier.resx">
+      <DependentUpon>QuantityForm - Copier (2).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="QuantityForm - Copier %282%29.resx">
+      <DependentUpon>QuantityForm.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="QuantityForm - Copier %283%29 - Copier.resx">
+      <DependentUpon>QuantityForm - Copier (3).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="QuantityForm - Copier %283%29.resx">
+      <DependentUpon>QuantityForm.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="QuantityForm - Copier %284%29.resx">
+      <DependentUpon>QuantityForm.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="QuantityForm - Copier - Copier %282%29 - Copier.resx">
+      <DependentUpon>QuantityForm - Copier - Copier (2).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="QuantityForm - Copier - Copier %282%29.resx">
+      <DependentUpon>QuantityForm - Copier.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="QuantityForm - Copier - Copier %283%29.resx">
+      <DependentUpon>QuantityForm - Copier.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="QuantityForm - Copier - Copier - Copier - Copier.resx">
+      <DependentUpon>QuantityForm - Copier - Copier - Copier.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="QuantityForm - Copier - Copier - Copier.resx">
+      <DependentUpon>QuantityForm - Copier - Copier.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="QuantityForm - Copier - Copier.resx">
+      <DependentUpon>QuantityForm - Copier.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="QuantityForm - Copier.resx">
+      <DependentUpon>QuantityForm.resx</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

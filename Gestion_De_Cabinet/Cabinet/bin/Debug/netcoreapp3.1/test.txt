@@ -1,0 +1,32 @@
+﻿Patient n°: Mou4592
+Infirmière: 25d
+Cause d'admission: palu
+
+Date d'admission: mardi 14 juin 2022
+Nom: Ali
+Prénom: Moussa
+
+Poids: 56kg
+Âge: 12ans
+
+*******************************************************************************
+Deuxième essai => right down
+*******************************************************************************
+Patient n°: ADia1239
+Infirmière: 25dFati
+Cause d'admission: Paludisme
+Date d'admission: jeudi 16 septembre 2021
+Nom: Ali
+Prénom: Diallo
+Poids: 45kg
+Âge: 16ans
+
+Patient n°: Mouss2770
+Infirmière: 25dFati
+Cause d'admission: Sinusite
+Date d'admission: dimanche 23 janvier 2022
+Nom: Moussa
+Prénom: Mani
+Poids: 78kg
+Âge: 20ans
+

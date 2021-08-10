@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Administrateur\AddingUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrateur\RemovingUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Docteur\ResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Laboratoire\LaboForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pharmacie\StuffForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pharmacie\PharmacyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Secrétaire\UpdatingPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrateur\UpdatingUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Docteur\ListPatientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Docteur\PharmacyStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Docteur\ScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrateur\InterfaceAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Docteur\InterfaceDocteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Secrétaire\InformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Secrétaire\InterfaceSecretaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Secrétaire\RegistrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Secrétaire\RemovalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Secrétaire\RendezVousForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
