@@ -1,5 +1,5 @@
 
-# GestionDeCabinetMedical
+# Health Care (gestion de cabinet medical)
 Icons used in this project are from flaticon.com
 
 *************************************
