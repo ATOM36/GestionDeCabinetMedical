@@ -27,3 +27,7 @@ No password is needed
 ***********************************************************
 The path of the .exe file for WinForms is LoginCabinet/bin/Debug/netcoreapp3.1/LoginCabinet.exe
 As for the console app .exe file, it can be found under the bin directory .
+
+***********************************************************
+# P.S
+A new version is to come using an Angular based frontend (using ElectronJS) and an ASP.NET Core Web API
