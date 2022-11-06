@@ -10,7 +10,7 @@ Icons used in this project are from flaticon.com
 The purpose of this application is to provide a medical practice with equipment enabling it to manage its activities.
 For this, there are several categories of users such as the doctor, the director of human resources, the pharmacist, and others.
 Each user category has a certain number of tasks.
-For example, a doctor can see the list of his patients or his appointments, past and future, on the pharmacy side, it is possible to manage the stock of available products. A secretary-type user takes care of patients, registers them in the system, manages appointments, and so on.
+For example, a doctor can see the list of his patients or his appointments, past and future, on the pharmacy side, it is possible to manage the stock of available products. A user of type secretary takes care of patients, registers them in the system, manages appointments, and so on.
 
 Please note: some features on the lab side may not respond. But they will be fixed in the next version. And also new features will be implemented.\
 As for data handling, the used DBMS is SQL Server Express.
