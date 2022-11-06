@@ -30,4 +30,4 @@ As for the console app .exe file, it can be found under the bin directory .
 
 ***********************************************************
 # P.S
-A new version is to come using an Angular based frontend (using ElectronJS) and an ASP.NET Core Web API
+A new version is to come using ***Flutter*** and ***ASP.NET Core***
